@@ -1,6 +1,6 @@
-**Name**: AlishaShrestha
+**Name**: Neha Thakur
 
-**CRN**: 021-307
+**CRN**: 021-345
 
 # Block Arrangement Problem
 
